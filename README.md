@@ -21,4 +21,5 @@
 
 - In the exploratory section, from my findings 'Avengers: Infinity War' has the highest return on investment was 2.4 Billion with "Action,Adventure,Sci-Fi" genre, in the findings above we can "Sci-Fi" genres a likely to bring to profitable, Microsoft inc.can look into such genres in that catergories
 
-## The analysis are in the Jupyter Notebook presentation.
+For Additional Information
+## The full analysis can be found the Jupyter Notebook.
