@@ -21,9 +21,11 @@
  
  <img width="612"  src="https://user-images.githubusercontent.com/82849694/180624181-2595b4ea-3503-4445-9090-9661e8d4c29a.png">
  
-![image](https://user-images.githubusercontent.com/82849694/180623962-45cf7700-40b3-471d-afb3-c63712e8fc43.png)
+ <img width="809" alt="Screen Shot 2022-07-23 at 3 47 16 PM" src="https://user-images.githubusercontent.com/82849694/180624267-e2407896-3205-45a4-9924-ed269ea39014.png">
+ 
+<img width="809" alt="Screen Shot 2022-07-23 at 3 47 16 PM" src="https://user-images.githubusercontent.com/82849694/180624295-47b73807-0711-47c6-b24a-1bda0e233f6b.png">
 
-![image](https://user-images.githubusercontent.com/82849694/180623966-74e286cb-76c0-4c71-a4b1-d665e062c9db.png)
+<img width="481" alt="Screen Shot 2022-06-20 at 2 45 15 PM" src="https://user-images.githubusercontent.com/82849694/180624287-5279c1f4-12a1-476b-b6c2-be648b1bf66c.png">
 
  
  ## Conclusion.
