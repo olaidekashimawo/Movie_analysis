@@ -2,13 +2,20 @@
 
  ![image](https://user-images.githubusercontent.com/82849694/180623315-bb141fd0-3678-4fee-b1c7-e8cb21604611.png)
  
-                      Name:Olaide Kashimawo
+  ### Name:Olaide Kashimawo
  
  ## Project Overview.
  
+ I will be sifting through movie dataset in order to discover various relationships between variables such as production budget, domestic gross , worldwide gross, total gross and profitability to generate insight for Microsoft stakeholders on starting a movie studio.
+
+ 
  ## Business Problem.
  
+ Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. I am charged with exploring what types of films are currently doing the best at the box office and determine profitability.
+
+
  ## Data Anaysis and Understanding.
+ In this step, I gathered data, a csv spreadsheet, then load it into a dataframe to assess its quality. I will be looking for missing value and problems in quality and/or structure. We will be removing extraneous data and making modifications, such as replacing information and removing duplicates, to ensure our dataset is trim and clean for analysis
  
  ## Final Results.
  
