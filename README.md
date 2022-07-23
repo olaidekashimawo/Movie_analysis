@@ -19,7 +19,7 @@
  
  ## Final Results.
  
- <img width="577" alt="Screen Shot 2022-07-18 at 11 11 08 PM" src="https://user-images.githubusercontent.com/82849694/180624094-fb50eebc-fb48-4940-9950-fd6333d1ae9b.png">
+ <img width="612"  src="https://user-images.githubusercontent.com/82849694/180624181-2595b4ea-3503-4445-9090-9661e8d4c29a.png">
  
 ![image](https://user-images.githubusercontent.com/82849694/180623962-45cf7700-40b3-471d-afb3-c63712e8fc43.png)
 
