@@ -19,6 +19,7 @@
  
  ## Final Results.
  
+ 
  ## Conclusion.
 - This illustrates the relationship between the production budget and the return on investment. it shows production budget and return on investment has a weak positive correlation meaning when production budget increase, the profit increases as well. Microsoft cannot achieved profitability based on this result because it is weak and unreliable.
 
@@ -28,5 +29,13 @@
 
 - In the exploratory section, from my findings 'Avengers: Infinity War' has the highest return on investment was 2.4 Billion with "Action,Adventure,Sci-Fi" genre, in the findings above we can "Sci-Fi" genres a likely to bring to profitable, Microsoft inc.can look into such genres in that catergories
 
-For Additional Information
-## The full analysis can be found the Jupyter Notebook.
+## For Additional Information
+The full analysis can be found the Jupyter Notebook.
+
+Outilne
+- title
+- Project Overview
+- Business Problem
+- Data Anaysis and Understanding
+- Final Results
+- Conclusion
