@@ -25,7 +25,7 @@
  
  <img width="809" alt="Screen Shot 2022-07-23 at 3 47 16 PM" src="https://user-images.githubusercontent.com/82849694/180624267-e2407896-3205-45a4-9924-ed269ea39014.png">
  
-<img width="809" alt="Screen Shot 2022-07-23 at 3 47 16 PM" src="https://user-images.githubusercontent.com/82849694/180624295-47b73807-0711-47c6-b24a-1bda0e233f6b.png">
+
 
 
  
