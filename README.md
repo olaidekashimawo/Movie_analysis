@@ -21,11 +21,13 @@
  
  <img width="612"  src="https://user-images.githubusercontent.com/82849694/180624181-2595b4ea-3503-4445-9090-9661e8d4c29a.png">
  
+ <img width="586" alt="Screen Shot 2022-07-18 at 11 12 18 PM" src="https://user-images.githubusercontent.com/82849694/180624336-05121bdf-9ac3-4c4a-8346-11feabcc19a1.png">
+ 
  <img width="809" alt="Screen Shot 2022-07-23 at 3 47 16 PM" src="https://user-images.githubusercontent.com/82849694/180624267-e2407896-3205-45a4-9924-ed269ea39014.png">
  
 <img width="809" alt="Screen Shot 2022-07-23 at 3 47 16 PM" src="https://user-images.githubusercontent.com/82849694/180624295-47b73807-0711-47c6-b24a-1bda0e233f6b.png">
 
-<img width="586" alt="Screen Shot 2022-07-18 at 11 12 18 PM" src="https://user-images.githubusercontent.com/82849694/180624336-05121bdf-9ac3-4c4a-8346-11feabcc19a1.png">
+
  
  ## Conclusion.
 - This illustrates the relationship between the production budget and the return on investment. it shows production budget and return on investment has a weak positive correlation meaning when production budget increase, the profit increases as well. Microsoft cannot achieved profitability based on this result because it is weak and unreliable.
