@@ -14,7 +14,7 @@
  Microsoft sees all the big companies creating original video content and they want to get in on the fun. They have decided to create a new movie studio, but they don’t know anything about creating movies. I am charged with exploring what types of films are currently doing the best at the box office and determine profitability.
 
 
- ## Data Anaysis and Understanding.
+ ## Data Analysis and Understanding.
  In this step, I gathered data, a csv spreadsheet, then load it into a dataframe to assess its quality. I will be looking for missing value and problems in quality and/or structure. We will be removing extraneous data and making modifications, such as replacing information and removing duplicates, to ensure our dataset is trim and clean for analysis
  
  ## Final Results.
