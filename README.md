@@ -2,7 +2,7 @@
 
  ![image](https://user-images.githubusercontent.com/82849694/180629048-edbb8789-84ae-43df-9e8a-24881b294361.png)
  
-  ### Name:Olaide Kashimawo
+  ### Name: Olaide Kashimawo
  
  ## Project Overview.
  
