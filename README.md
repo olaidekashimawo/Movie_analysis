@@ -22,7 +22,7 @@
 
  <img width="720" alt="image" src="https://user-images.githubusercontent.com/82849694/187055776-3be717d1-baca-4bb6-92df-f015d61d8f2d.png">
 
-<img width="805" alt="image" src="https://user-images.githubusercontent.com/82849694/187055810-db1336d2-f804-4662-b98e-5d37f17a144c.png">
+<img width="726" alt="image" src="https://user-images.githubusercontent.com/82849694/187055810-db1336d2-f804-4662-b98e-5d37f17a144c.png">
 
  <img width="586" alt="Screen Shot 2022-07-18 at 11 12 18 PM" src="https://user-images.githubusercontent.com/82849694/180624336-05121bdf-9ac3-4c4a-8346-11feabcc19a1.png">
  
